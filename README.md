@@ -5,7 +5,7 @@
 # Olá, sou o Rodolffo, alguém "de Humanas" na Computação.
 
 <p align = "center">
-Cursando Sistemas de Informação e Técnico em Desenvolvimento de Sistemas, busco minha primeira oportunidade como desenvolvedor. Sou amante incondicional de tecnologias de código aberto e minha paixão por programação, nasceu quando conheci o mundo Linux e quis entender como funciona o tão temído terminal. 
+Cursando Sistemas de Informação e Técnico em Desenvolvimento de Sistemas, busco minha primeira oportunidade como desenvolvedor. Sou amante incondicional de tecnologias de código aberto e minha paixão por programação nasceu quando conheci o mundo Linux e quis entender como funciona o tão "temído" terminal. 
 </p>
 <p align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Tux" alt="Tux" width="40" height="40"/>&nbsp;
