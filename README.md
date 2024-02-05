@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.gif" width="450px"/>
+<img src="banner.jpeg" width="450px"/>
 </div>
 
 # Olá, sou o Rodolffo, alguém "de Humanas" na Computação.
